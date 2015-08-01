@@ -14,6 +14,7 @@
 		67EA9D171B6C8910006C2F98 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67EA9D161B6C8910006C2F98 /* Images.xcassets */; };
 		67EA9D1A1B6C8910006C2F98 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 67EA9D181B6C8910006C2F98 /* LaunchScreen.xib */; };
 		67EA9D261B6C8910006C2F98 /* Just_Do_ItTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 67EA9D251B6C8910006C2F98 /* Just_Do_ItTests.m */; };
+		67EA9D301B6D0EF6006C2F98 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67EA9D2F1B6D0EF6006C2F98 /* Images-2.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		67EA9D1F1B6C8910006C2F98 /* Just Do ItTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Just Do ItTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		67EA9D241B6C8910006C2F98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		67EA9D251B6C8910006C2F98 /* Just_Do_ItTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Just_Do_ItTests.m; sourceTree = "<group>"; };
+		67EA9D2F1B6D0EF6006C2F98 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				67EA9D131B6C8910006C2F98 /* Main.storyboard */,
 				67EA9D161B6C8910006C2F98 /* Images.xcassets */,
 				67EA9D181B6C8910006C2F98 /* LaunchScreen.xib */,
+				67EA9D2F1B6D0EF6006C2F98 /* Images-2.xcassets */,
 				67EA9D091B6C8910006C2F98 /* Supporting Files */,
 			);
 			path = "Just Do It";
@@ -201,6 +204,7 @@
 			files = (
 				67EA9D151B6C8910006C2F98 /* Main.storyboard in Resources */,
 				67EA9D1A1B6C8910006C2F98 /* LaunchScreen.xib in Resources */,
+				67EA9D301B6D0EF6006C2F98 /* Images-2.xcassets in Resources */,
 				67EA9D171B6C8910006C2F98 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

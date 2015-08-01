@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0601804E-8BFE-4496-B411-D5CA726A7265</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>19B49990CC7A4D2FF9A9D9F6A4FF3F410CBC37D3</key>
+		<string>https://github.com/kevinkang88/justdoit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Just Do It.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>19B49990CC7A4D2FF9A9D9F6A4FF3F410CBC37D3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kevinkang88/justdoit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>19B49990CC7A4D2FF9A9D9F6A4FF3F410CBC37D3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>19B49990CC7A4D2FF9A9D9F6A4FF3F410CBC37D3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Just%20Do%20It</string>
+		</dict>
+	</array>
+</dict>
+</plist>
